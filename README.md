@@ -22,7 +22,7 @@ me.welcomHere();
 
 
 
-
+https://www.instagram.com/iamfatima_ra1/
 
 
 
@@ -38,7 +38,7 @@ me.welcomHere();
 <a href="https://codepen.io/https://codepen.io/fatima-rahimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/fatima-rahimi" height="30" width="40" /></a>
 <a href="https://twitter.com/fatiam_g0lden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fatiam_g0lden" height="30" width="40" /></a>
 <a href="https://codesandbox.com/iamfatimarahimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="iamfatimarahimi" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/iamfatima_ra1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iamfatima_ra1/" height="30" width="40" /></a>
+<a href="https://instagram.com/[https://www.instagram.com/iamfatima_ra1/](https://www.instagram.com/iamfatima_ra1/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iamfatima_ra1/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/" height="30" width="40" /></a>
 </p>
 
