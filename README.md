@@ -6,7 +6,7 @@ class ComputerStudent {
     introduce() {
         this.name = "Fatiam Rahimi";
         this.bio = "Computer Student from IR";
-        this.favorites = ["Coding" , "Music" , "Water:)"];
+        this.favorites = ["Coding" , "Music"];
         this.languageSpoken = ["en_US", "fa_IR"];
     }
 
