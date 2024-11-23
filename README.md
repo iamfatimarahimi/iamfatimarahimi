@@ -27,7 +27,7 @@ me.welcomeHere();
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Git**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamfatimarahimi](https://github.com/iamfatimarahimi)
 
